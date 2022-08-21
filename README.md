@@ -13,7 +13,7 @@
 
 - 👯 I've collaborated with **QuikPik startup incubated with GUSEC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/deepmihir](https://github.com/deepmihir)
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/deepmihir/deepmihir/blob/main/README.md?plain=1)
 
 - 💬 Ask me about **Flutter, Dart,**
 
