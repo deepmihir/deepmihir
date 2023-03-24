@@ -1,21 +1,19 @@
 ![logo](https://github.com/deepmihir/deepmihir/blob/main/banner.jfif)
 
 <h1 align="center">Hi 👋, I'm Deep Katbamna</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Data scientist and Machine Learning enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" style="padding-top: 50px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepmihir&label=Profile%20views&color=0e75b6&style=flat" alt="deepmihir" /> </p>
 
-- 🔭 I’m currently working on **cross platform application**
-
-- 🌱 I’m currently learning **flutter state management, developement of optimized application**
+- 🔭 I’m currently working on **Data Analytics project**
 
 - 👯 I've collaborated with **QuikPik startup incubated with GUSEC**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://deepmihir.github.io/devFolio/)
 
-- 💬 Ask me about **Flutter, Dart,**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **deepmihir@gmail.com**
 
