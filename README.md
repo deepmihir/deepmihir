@@ -11,13 +11,11 @@
 
 - 👯 I've collaborated with **QuikPik startup incubated with GUSEC**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://deepmihir.github.io/devFolio/)
-
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **deepmihir@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3QWxJZ3](https://bit.ly/3QWxJZ3)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1meRIQ8K53j0-EUnU4apWQHzJYJzEEc91/view?usp=sharing)
 
 - ⚡ Fun fact **$tree command is real hacking**
 
