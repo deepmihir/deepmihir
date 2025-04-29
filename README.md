@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **deepmihir@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1meRIQ8K53j0-EUnU4apWQHzJYJzEEc91/view?usp=sharing)
+- 📄 Know about my experiences [Potfolio](https://data-flow-architect-portfolio.lovable.app/)
 
 - ⚡ Fun fact **$tree command is real hacking**
 
